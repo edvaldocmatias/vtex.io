@@ -1,0 +1,2 @@
+# vtex.io
+minimo template
